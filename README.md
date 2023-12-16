@@ -18,7 +18,7 @@ https://joshrthedeveloper.github.io/Module-1-Challenge/
 
 #### Screenshot
 
-![my screenshot](https://raw.githubusercontent.com/JoshRTheDeveloper/Module-1-Challenge/main/joshrthedeveloper.github.io_Module-1-Challenge_.png).
+![my screenshot]({https://raw.githubusercontent.com/JoshRTheDeveloper/Module-1/main/assets/images/joshrthedeveloper.github.io_Module-1-Challenge_.png}).
 
 ## Credits
 
